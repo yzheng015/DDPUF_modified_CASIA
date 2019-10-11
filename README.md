@@ -27,6 +27,6 @@ To use the dataset, please cite:
 [1] Y. Zheng, Y. Cao and C. Chang, "A PUF-based data-device hash for tampered image detection and source camera identification," in IEEE Tran. Inf. Forensics Security, vol. 15, pp. 620-634, 2020.
 [2] J. Dong, W. Wang and T. Tan, "CASIA image tampering detection evaluation database," 2013 IEEE China Summit Int. Conf. Signal Inf. Process., Beijing, 2013, pp. 422-426.
 
-You can also visit 
+To download the dataset, please visit  
 https://ieee-dataport.org/open-access/modified-casia
-For information. 
+
